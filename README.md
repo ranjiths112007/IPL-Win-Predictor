@@ -143,9 +143,8 @@ streamlit run app.py
 
 ## 👨‍💻 Built By
 
-A college student who learned Python from YouTube tutorials
-and built this from absolute zero in one week.
-
+Ranjith S
+https://www.linkedin.com/in/ranjith-sivashanmugam-800b50288/
 ---
 
 ## ⭐ If you found this useful
